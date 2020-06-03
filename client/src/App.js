@@ -8,12 +8,12 @@ import Test from "./components/test";
 import PaymentInfo from "./components/paymentinfo/paymentInfo";
 import CustomerProvider from "../src/context/customerContext";
 import ProductProvider from "../src/context/productContext";
-import AdminRequest from "./components/adminDashboard/adminRequest/adminRequest";
-import OrderExport from "./components/adminDashboard/orderExport/orderExport";
-import ProductAddAndDelete from "./components/adminDashboard/productAddAndDelete/productAddAndDelete";
-import ProductCategory from "./components/adminDashboard/productCategory/productCategory";
-import ProductStockBalance from "./components/adminDashboard/productStockBalance/productStockBalance";
-import WelcomeAdmin from "./components/adminDashboard/welcomeAdmin/welcomeAdmin";
+import AdminRequest from "./components/admindashboard/adminRequest/adminRequest";
+import OrderExport from "./components/admindashboard/orderExport/orderExport";
+import ProductAddAndDelete from "./components/admindashboard/productAddAndDelete/productAddAndDelete";
+import ProductCategory from "./components/admindashboard/productCategory/productCategory";
+import ProductStockBalance from "./components/admindashboard/productStockBalance/productStockBalance";
+import WelcomeAdmin from "./components/admindashboard/welcomeAdmin/welcomeAdmin";
 // import ChildrenProducts from "./components/productpage/regularProducts";
 
 function App() {
